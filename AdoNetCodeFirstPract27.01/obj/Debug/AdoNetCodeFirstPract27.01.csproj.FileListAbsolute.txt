@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\AdoNetCodeFirstPract27.01.exe.config
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\AdoNetCodeFirstPract27.01.exe
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\AdoNetCodeFirstPract27.01.pdb
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\obj\Debug\AdoNetCodeFirstPract27.01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\obj\Debug\AdoNetCodeFirstPract27.01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\obj\Debug\AdoNetCodeFirstPract27.01.csproj.CopyComplete
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\obj\Debug\AdoNetCodeFirstPract27.01.exe
+C:\Users\Admin\source\repos\AdoNetCodeFirstPract27.01\AdoNetCodeFirstPract27.01\obj\Debug\AdoNetCodeFirstPract27.01.pdb
